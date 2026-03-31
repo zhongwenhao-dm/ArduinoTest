@@ -1,0 +1,9 @@
+pipelines:
+  pr-test:
+    description: pull request tests
+    py_module: cicd
+    py_function: build_pipeline
+  post-merge:
+    description: post merge tests
+    py_module: cicd
+    py_function: build_pipeline
