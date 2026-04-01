@@ -1,2 +1,5 @@
-# CppTemplate
-Template C++ repository.
+# Arduino Test
+
+Arduino env for some hardwares development.
+
+
